@@ -1,0 +1,4 @@
+mountpoints:
+  /:
+    url: https://raw.githubusercontent.com/shybabu187/da-block-collection/main
+    type: markup
