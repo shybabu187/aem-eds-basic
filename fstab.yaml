@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://raw.githubusercontent.com/shybabu187/da-block-collection/main
+    url: https://raw.githubusercontent.com/shybabu187/aem-eds-basic/main
     type: markup
