@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://raw.githubusercontent.com/shybabu187/aem-eds-basic/main
+    url: https://main--aem-eds-basic--shybabu187.aem.page/
     type: markup
